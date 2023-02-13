@@ -1,3 +1,5 @@
 https://www.youtube.com/watch?v=3D5F8ZxBMmM&t=2562s   You can use this link how to deploy code over webserver
 
-git ----> jenkins-----> ansible ------> webserver
+git ----> jenkins-----> ansible ------> webserver 
+
+https://www.youtube.com/watch?v=m21nFreFw8A  if you want to setup tomcat server follow this vedio
